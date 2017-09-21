@@ -1,0 +1,6 @@
+[submodule ".cargo"]
+	path = .cargo
+	url = https://github.com/lemonrock/.cargo.git
+[submodule "lib/sfnt2woff-zopfli"]
+	path = lib/sfnt2woff-zopfli
+	url = https://github.com/bramstein/sfnt2woff-zopfli.git
